@@ -1,5 +1,5 @@
 Projeto realizado na cadeira de Sistemas Distribuido.
-```
+
 Enunciado deste projeto em enunciado.pdf
 
 Para executar este projeto deverá compilar os ficheiros:
