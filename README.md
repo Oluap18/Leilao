@@ -16,6 +16,7 @@ De seguida deverá executar, para cada cliente:
 java Cliente [ipServer] [portNumberServer]
 
 Comandos para executar programa:
+
 r 'Username' 'Password': para fazer o registo do utilizador
 a 'Username' 'Password': para autenticar o utilizador.
 i 'Descrição do item': para leiloar um item.
